@@ -1,5 +1,3 @@
-package simple2;
-
 import javax.swing.*;  
 public class Simple2 extends JFrame{//inheriting JFrame  
 JFrame f;  
